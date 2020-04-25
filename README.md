@@ -10,6 +10,9 @@ It is a simple django project or website in which we can Analyze text.
 4)Extra Spaces Remover<br>
 5)Numbers Remover
 
+#Translator
+will do English to Hindi conversion
+
 <h1>Requirments</h1>
 python3<br>
 django<br>
